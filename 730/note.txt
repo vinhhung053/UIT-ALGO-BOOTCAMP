@@ -1,0 +1,3 @@
+Bài làm được A,B,D1( C và D2 sau contest)
+D1 em dính bug nhỏ nhưng mãi check phần tương tác nên không biết để sửa.
+Em nhận ra mình vẫn chưa có kinh nghiệm debug các bài interactive nên sẽ kiếm tài liệu để tham khảo. D2 em đọc tutorial em học được vài công thức khá hay mà trước đó chưa biết.

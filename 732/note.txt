@@ -1,0 +1,3 @@
+Bài làm được: A,B,D(C sau contest).
+Bài D em nhận thấy các đáp án đều có dạng một công thức tổ hợp. Vì chỉ có ít trường hợp lẫn có test mẫu lớn nên dễ dàng tìm công thức để giải quyết
+Bài C em không nhận ra thuật toán, lúc đầu có thử cài cây IT nhưng ko hiệu quả

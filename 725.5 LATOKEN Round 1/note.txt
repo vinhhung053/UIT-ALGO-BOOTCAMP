@@ -1,0 +1,3 @@
+Báo cáo kết quả contest LATOKEN Round 1 Bài giải được 3 (A, B, C, D)
+Nhận xét: Bài E có vài trường hợp đặc biệt em không nhìn ra cho đến lúc xem được bộ test.
+Kinh nghiệm rút ra: Ở những bài khó cần tập trung phân tích kĩ hơn trước khi code và cần luyện tập nhiều hơn.

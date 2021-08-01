@@ -1,0 +1,3 @@
+Lỗi mắc phải 
+Bài E1 lúc đầu chưa nhận định được thuật toán nên code rườm rà rồi sai khá ẩu. Thay vì chỉ cần code trâu.
+Bài học rút ra Cần phân tích bài toán nhiều mặt và cần tốc độ phân tích nhanh hơn

@@ -1,0 +1,2 @@
+Bài B em hơi rối trong việc tính phức tạp khi sử dụng tham lam. Sẽ cần rèn luyện mặt này hơn. 
+Bài D về xâu nhưng chỉ vài trường hợp nên nhìn ra sẽ giải quyết được.

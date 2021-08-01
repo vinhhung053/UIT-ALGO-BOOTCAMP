@@ -1,0 +1,3 @@
+Các bài giải được: A,B,C
+Nhận xét: Bài B và C làm khá chậm cho mất nhiều thời gian suy nghĩ thuật giải. Bài D khá khó nhưng đã đọc sol và hiểu được chút. 
+Rút kinh nghiệm: Cần cố gắng hơn
